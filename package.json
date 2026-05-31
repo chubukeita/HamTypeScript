@@ -19,12 +19,13 @@
   },
   "homepage": "https://github.com/DiveIntoHacking/typescript-for-javascript-developers#readme",
   "devDependencies": {
-    "ts-node": "^10.9.1",
+    "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^6.0.3"
   },
   "dependencies": {
-    "axios": "^1.2.0"
+    "axios": "^1.2.0",
+    "yn": "^5.1.0"
   },
   "type": "commonjs"
 }
